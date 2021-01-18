@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-Demo[https://tinder-clone-ef7b1.web.app/]
+Demo(https://tinder-clone-ef7b1.web.app/)
 
 ![](images/Capture.PNG)
 
